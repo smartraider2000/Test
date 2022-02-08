@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## This is a test page
 
 You can use the [editor on GitHub](https://github.com/smartraider2000/Test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
